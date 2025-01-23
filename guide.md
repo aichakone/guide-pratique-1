@@ -12,5 +12,11 @@ Une communication claire et ouverte est essentielle pour une collaboration effic
 - Assurez-vous que chaque membre peut s'exprimer librement.
 
 ## Gestion des tâches
+la gestion de tache   
+
+## Résolution des conflits
+(À compléter)
+
+## Conclusion
 (À compléter)
 
